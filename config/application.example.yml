@@ -1,0 +1,4 @@
+development:
+  google_analytics_key: "UA-35722661-5"
+production:
+  google_analytics_key: "UA-35722661-5"
