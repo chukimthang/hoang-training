@@ -48,3 +48,8 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'figaro'
+gem 'bootstrap-sass', '3.3.7'
+gem 'jquery-rails'
+gem 'kaminari'
+gem 'bootstrap-kaminari-views'
+gem 'faker', :git => 'https://github.com/stympy/faker.git', :branch => 'master'
